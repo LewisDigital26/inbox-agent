@@ -1,0 +1,14 @@
+# Secrets - never upload these
+.env
+credentials.json
+token.json
+sheet_script.gs
+
+# Local data (contains real email addresses and subjects)
+processed.json
+pending.json
+
+# Backups and Python files
+backup/
+venv/
+__pycache__/

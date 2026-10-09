@@ -1,0 +1,13 @@
+#,subject,expected_category,ai_category,category_correct,expected_urgency,ai_urgency,urgency_correct,meeting_check,error
+1,Booking system for my salon,enquiry,enquiry,True,low,medium,False,,
+2,Wrong phone number on website,complaint,enquiry,False,high,high,True,,
+3,Your domain renews in 30 days,invoice,invoice,True,low,low,True,,
+4,Call on Thursday?,booking,booking,True,medium,medium,True,True,
+5,New login to your account,notification,notification,True,low,low,True,,
+6,80% off VPN - today only!,spam,spam,True,low,low,True,,
+7,Happy birthday love,other,other,True,low,low,True,,
+8,Invoice query,complaint,complaint,True,medium,high,False,,
+9,Your account will be deleted,spam,spam,True,low,low,True,,
+10,Help with newsletters,enquiry,enquiry,True,medium,medium,True,,
+11,Change of plan,booking,booking,True,high,high,True,True,
+12,Payment received,invoice,invoice,True,low,low,True,,
